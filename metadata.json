@@ -1,0 +1,7 @@
+{
+  "name": "GNOME Shortcuts Per App",
+  "description": "Dynamically remap GNOME custom system shortcuts based on the focused application. Adds a quick settings toggle to enable/disable per-app shortcut mapping, and access a settings modal that can capture the current active window and assign/edit/delte shortcuts. This extension uses clipboard access to allow users to copy the name of the active window.",
+  "uuid": "GNOME-shortcuts-per-app@mostlynick3",
+  "shell-version": ["48"],
+  "url": "https://github.com/mostlynick3/GNOME-shortcuts-per-app"
+}
