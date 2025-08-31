@@ -23,6 +23,3 @@ This GNOME Shell extension allows you to dynamically remap custom system shortcu
 
 ## Compatibility
 - Tested on GNOME Shell 48
-
-## Source
-[GitHub Repository](https://github.com/mostlynick3/GNOME-shortcuts-per-app)
